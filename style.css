@@ -1,0 +1,285 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Mulish', sans-serif;
+}
+.navbar-brand{
+    font-weight: 600;
+}
+.head {
+    height: 850px;
+    width: 100%;
+}
+
+.head h1 {
+    font-family: sans-serif;
+    margin: 80px 0 0 1130px;
+}
+
+.head p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px 0 0 1200px;
+}
+
+.himg {
+    margin: 80px 0px 0 150px;
+}
+
+.about {
+    height: 350px;
+    width: 100%;
+
+    display: flex;
+}
+
+.look {
+    height: 250px;
+    width: 600px;
+    margin: 0 0 0 120px;
+
+}
+
+.look h1 {
+    text-align: right;
+    padding: 50px 150px 0 0;
+    
+}
+
+.aboutus {
+    background-color: white;
+    padding: 0 0 0 30px;
+    height: 250px;
+    width: 500px;
+    margin: -150px 0 0 148px;
+}
+
+.aboutus h2 {
+    margin: 20px 0;
+}
+.aboutus p {
+    line-height: 25px;
+    margin: 20px 0;
+    font-size: 15px;
+}
+
+.abutton {
+    background-color: white;
+    padding: 12px 20px;
+    color: black;
+}
+
+.abutton:hover {
+    background-color: rgb(39, 38, 38);
+    padding: 12px 20px;
+    color: white;
+}
+
+.contblack {
+    height: 950px;
+    width: 100%;
+    background-color: black;
+
+}
+
+.top {
+    height: 350px;
+    width: 100%;
+    display: flex;
+}
+
+.topleft {
+    height: 400px;
+    width: 500px;
+    margin: -100px 0 10px 170px;
+}
+
+.topright {
+    margin: 25px 0 10px 120px;
+    height: 300px;
+    width: 600px;
+}
+
+.topright h1 {
+    text-align: right;
+    margin: 10px;
+    padding: 0 10px 0 0;
+}
+
+.topright p {
+    font-size: 20px;
+    text-align: right;
+    line-height: 25px;
+    margin: 20px;
+}
+
+.topright {
+    color: white;
+}
+
+.down {
+    height: 400px;
+    width: 100%;
+
+    display: flex;
+
+}
+
+.downleft {
+    height: 400px;
+    width: 500px;
+    margin: 20px 0 10px 90px;
+    padding: 0 0 0 30px;
+    color: white;
+   
+}
+
+.downleft p {
+    font-size: 20px;
+    line-height: 25px;
+    margin: 20px 0;
+}
+
+.downright {
+    height: 360px;
+    width: 500px;
+    margin: -20px 0 10px 180px;
+}
+
+.dbutton {
+    background-color: white;
+    padding: 12px 20px;
+    color: black;
+}
+
+.dbutton:hover {
+    background-color: rgb(154, 153, 153);
+    padding: 12px 20px;
+    color: white;
+}
+
+.contwhite {
+    height: 650px;
+    width: 100%;
+
+}
+
+.wimg {
+    margin: -100px 0 0 200px;
+}
+
+.blackcont {
+    background-color: black;
+    display: flex;
+    height: 500px;
+    width: 100%;
+
+}
+
+.blackleft {
+    color: white;
+    height: 390px;
+    width: 500px;
+    margin: 0 0 0 100px;
+    padding: 40px;
+}
+
+.blackleft p {
+    line-height: 25px;
+    margin: 20px 0;
+}
+
+.bbutton {
+    margin: 15px 0;
+    background-color: white;
+    padding: 12px 20px;
+    color: black;
+}
+
+.bbutton:hover {
+    background-color: rgb(154, 153, 153);
+    padding: 12px 20px;
+    color: white;
+}
+
+.blackright {
+    height: 390px;
+    width: 550px;
+    margin: -100px 0 0 40px;
+}
+
+.form {
+    background-color: rgb(208, 207, 207);
+    height: 620px;
+    width: 100%;
+
+    text-align: center;
+}
+
+.form h1 {
+   padding: 50px 0px 0 0;
+}
+
+.name {
+    padding: 10px 85px;
+    margin: 20px 0;
+}
+
+.email {
+    padding: 10px 85px;
+    margin: 10px 0;
+}
+
+.email {
+    padding: 10px 85px;
+    margin: 10px 0;
+}
+
+.message {
+    padding: 45px 155px;
+    margin: 10px 0;
+}
+
+.sub {
+    border: 1px solid black;
+    margin: 10px 0;
+    padding: 10px 30px 10px 30px;
+    background-color: rgb(208, 207, 207);
+}
+
+.sub:hover {
+   color: white;
+   background-color: rgb(54, 53, 53);
+}
+
+.contact {
+    display: flex;
+    height: 350px;
+    width: 100%;
+    background-color: black;
+}
+
+.cleft {
+    height: 350px;
+    width: 500px;
+    margin: -100px 0 0 150px;
+}
+
+.cright {
+    height: 400px;
+    width: 600px;
+    margin: 0 0 0 100px;
+    padding: 20px;
+    color: white;
+}
+
+.cright p {
+    margin: 10px;
+    line-height: 35px;
+}
+
+.cright h1 {
+    margin: 10px;
+}
